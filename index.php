@@ -93,7 +93,7 @@ Navbar
     <span class="navbar-toggler-icon"></span>
   </button>
      <div class="container">
-         <a class="navbar-brand" href="#"><span class="bold">TOURNEUX</span> Elias</a>
+         <a class="navbar-brand" href="#">Elias <span class="bold">TOURNEUX</span></a>
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
@@ -117,7 +117,7 @@ Background
 -->
 <div class="section bg">
     <div class="container title">
-        <h1><span class="bold">TOURNEUX</span> Elias</h1>
+        <h1>Elias <span class="bold">TOURNEUX</span></h1>
         <h2>Amateur de développement web</h2>
         <a href="#skills"><button type="button" class="btn btn-outline-secondary">Me découvrir</button></a>
     </div>
