@@ -35,7 +35,7 @@ if(empty($errors)){
     $message .= ' </h2><p>';
     $message .= $content;
     $message .= ' </p></body></html>';
-    mail('elias.tourneux@gmail.com', 'Nouveau message depuis eliastourneux.com', $message, $headers);
+    mail('contact@eliastourneux.com', 'Nouveau message depuis eliastourneux.com', $message, $headers);
 }
 
 
@@ -130,17 +130,17 @@ Skills
 <div id="skills" class="container section skills">
     <h1>Mes compétences</h1>
     <div class="row">
-        <div class="col-lg-4 cardBlock">
+        <div class="col-md-4 cardBlock">
               <i class="fa fa-code" aria-hidden="true"></i>
               <h3>Création de toutes pièces</h3>
               <p>Autodidacte, débrouillard et curieux, j'ai appris par moi-même de nombreux langages de développement, me permettant de vous créer un premier site. Je me renforce en apprenant tous les jours, et apprenant de mes erreurs !</p>
         </div>
-        <div class="col-lg-4 cardBlock">
+        <div class="col-md-4 cardBlock">
               <i class="fa fa-cogs" aria-hidden="true"></i>
               <h3>Administration et maintenance</h3>
               <p>Je peux héberger et maintenir votre site web, vous permettant une liaison h24 avec vos clients, et vous éviter tous les problèmes techniques de la gestion d'un site web, et de son serveur !</p>
         </div>
-        <div class="col-lg-4 cardBlock">
+        <div class="col-md-4 cardBlock">
               <i class="fa fa-wordpress" aria-hidden="true"></i>
               <h3>Utiliser et configurer le CMS Wordpress</h3>
               <p>Vous souhaitez un site plus complet, e-commerce, ou autres ? Autant s'orienter vers Wordpress. Je peux configurer, installer Wordpress, mais aussi créer votre propre thème personnalisé !</p>
@@ -157,12 +157,12 @@ Projects
         <div class="col-lg-12">
             <div class="cardProject">
             <div class="row">
-                <div class="col-lg-7">
+                <div class="col-md-7">
                    <a class="fancybox" rel="gallery1" href="assets/img/2-hd.jpg" title="Women&co - www.womenandco.fr">
                     <img src="assets/img/2.jpg" width="100%" height="100%">
                     </a>
                 </div>
-                <div class="col-lg-5">
+                <div class="col-md-5">
                     <h3>Women&amp;co</h3>
                     <hr>
                     <h4>Durée du projet: Septembre 2016- Juin 2017</h4>
@@ -173,14 +173,14 @@ Projects
             </div>
             <div class="cardProject">
              <div class="row">
-                <div class="col-lg-5">
+                <div class="col-md-5">
                     <h3>eliastourneux.com</h3>
                     <hr>
                     <h4>date de création: janvier 2018</h4>
                     <p>Ce projet est le site où vous vous trouvez en ce moment même. Il a pour but de servir de portail pour toute personne souhaitant voir mon travail, ma passion et ma motivation. Je refais souvent mon site pour montrer l'évolution de mes capacités, et ainsi toujours donner une meilleur image de moi même. <br>Si vous souhaitez me donner un conseil, un avis, une remarque, vous pouvez le faire via le formulaire ci-dessous.</p>
                     <a href="https://www.eliastourneux.com"><i class="fa fa-search-plus" aria-hidden="true"></i></a>
                 </div>
-                <div class="col-lg-7 cardFirst">
+                <div class="col-md-7 cardFirst">
                    <a class="fancybox" rel="gallery1" href="assets/img/1-hd.png" title="Portfolio - www.eliastourneux.com">
                     <img src="assets/img/1.png" width="100%" height="100%">
                     </a>
